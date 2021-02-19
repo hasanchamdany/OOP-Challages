@@ -1,0 +1,48 @@
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\bin\Debug\net5.0\oopfundamental.exe
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\bin\Debug\net5.0\oopfundamental.deps.json
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\bin\Debug\net5.0\oopfundamental.runtimeconfig.json
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\bin\Debug\net5.0\oopfundamental.runtimeconfig.dev.json
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\bin\Debug\net5.0\oopfundamental.dll
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\bin\Debug\net5.0\ref\oopfundamental.dll
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\bin\Debug\net5.0\oopfundamental.pdb
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\obj\Debug\net5.0\oopfundamental.csprojAssemblyReference.cache
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\obj\Debug\net5.0\oopfundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\obj\Debug\net5.0\oopfundamental.AssemblyInfoInputs.cache
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\obj\Debug\net5.0\oopfundamental.AssemblyInfo.cs
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\obj\Debug\net5.0\oopfundamental.csproj.CoreCompileInputs.cache
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\obj\Debug\net5.0\oopfundamental.dll
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\obj\Debug\net5.0\ref\oopfundamental.dll
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\obj\Debug\net5.0\oopfundamental.pdb
+C:\Users\ridif\source\Demos\PBO2021\pbo\OOPFundamental\obj\Debug\net5.0\oopfundamental.genruntimeconfig.cache
+A:\C#\OOP\OOPFundamental\bin\Debug\net5.0\oopfundamental.exe
+A:\C#\OOP\OOPFundamental\bin\Debug\net5.0\oopfundamental.deps.json
+A:\C#\OOP\OOPFundamental\bin\Debug\net5.0\oopfundamental.runtimeconfig.json
+A:\C#\OOP\OOPFundamental\bin\Debug\net5.0\oopfundamental.runtimeconfig.dev.json
+A:\C#\OOP\OOPFundamental\bin\Debug\net5.0\oopfundamental.dll
+A:\C#\OOP\OOPFundamental\bin\Debug\net5.0\ref\oopfundamental.dll
+A:\C#\OOP\OOPFundamental\bin\Debug\net5.0\oopfundamental.pdb
+A:\C#\OOP\OOPFundamental\obj\Debug\net5.0\oopfundamental.csprojAssemblyReference.cache
+A:\C#\OOP\OOPFundamental\obj\Debug\net5.0\oopfundamental.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\OOP\OOPFundamental\obj\Debug\net5.0\oopfundamental.AssemblyInfoInputs.cache
+A:\C#\OOP\OOPFundamental\obj\Debug\net5.0\oopfundamental.AssemblyInfo.cs
+A:\C#\OOP\OOPFundamental\obj\Debug\net5.0\oopfundamental.csproj.CoreCompileInputs.cache
+A:\C#\OOP\OOPFundamental\obj\Debug\net5.0\oopfundamental.dll
+A:\C#\OOP\OOPFundamental\obj\Debug\net5.0\ref\oopfundamental.dll
+A:\C#\OOP\OOPFundamental\obj\Debug\net5.0\oopfundamental.pdb
+A:\C#\OOP\OOPFundamental\obj\Debug\net5.0\oopfundamental.genruntimeconfig.cache
+A:\C#\Test 1\PBO1\bin\Debug\net5.0\oopfundamental.exe
+A:\C#\Test 1\PBO1\bin\Debug\net5.0\oopfundamental.deps.json
+A:\C#\Test 1\PBO1\bin\Debug\net5.0\oopfundamental.runtimeconfig.json
+A:\C#\Test 1\PBO1\bin\Debug\net5.0\oopfundamental.runtimeconfig.dev.json
+A:\C#\Test 1\PBO1\bin\Debug\net5.0\oopfundamental.dll
+A:\C#\Test 1\PBO1\bin\Debug\net5.0\ref\oopfundamental.dll
+A:\C#\Test 1\PBO1\bin\Debug\net5.0\oopfundamental.pdb
+A:\C#\Test 1\PBO1\obj\Debug\net5.0\oopfundamental.csprojAssemblyReference.cache
+A:\C#\Test 1\PBO1\obj\Debug\net5.0\oopfundamental.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\Test 1\PBO1\obj\Debug\net5.0\oopfundamental.AssemblyInfoInputs.cache
+A:\C#\Test 1\PBO1\obj\Debug\net5.0\oopfundamental.AssemblyInfo.cs
+A:\C#\Test 1\PBO1\obj\Debug\net5.0\oopfundamental.csproj.CoreCompileInputs.cache
+A:\C#\Test 1\PBO1\obj\Debug\net5.0\oopfundamental.dll
+A:\C#\Test 1\PBO1\obj\Debug\net5.0\ref\oopfundamental.dll
+A:\C#\Test 1\PBO1\obj\Debug\net5.0\oopfundamental.pdb
+A:\C#\Test 1\PBO1\obj\Debug\net5.0\oopfundamental.genruntimeconfig.cache
